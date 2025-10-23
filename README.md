@@ -19,3 +19,17 @@ Here is more text that will be my second commit
 # My third commit
 
 Here is some text for my third commit
+
+\#contribution from meep hi this is meep woot woot. here is some code
+
+``` r
+print("hello from R")
+```
+
+    ## [1] "hello from R"
+
+``` r
+Sys.Date()
+```
+
+    ## [1] "2025-10-23"
