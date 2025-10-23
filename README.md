@@ -1,8 +1,6 @@
----
-title: My firdt git repo
-author: Najiyah Williamson
-output: github_document
----
+My first git repo
+================
+Najiyah Williamson
 
 # My first commit
 
